@@ -4,15 +4,15 @@
 </p>
 <p align="center">
   <a href="https://github.com/aliyabuz" aria-label="GitHub">
-    <img src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6/svgs/brands/github.svg" width="20" height="20" alt="GitHub" />
+    <img src="https://api.iconify.design/fa6-brands:github.svg?color=%23181717" width="20" height="20" alt="GitHub" />
   </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/aliyabuz/" aria-label="LinkedIn">
-    <img src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6/svgs/brands/linkedin.svg" width="20" height="20" alt="LinkedIn" />
+    <img src="https://api.iconify.design/fa6-brands:linkedin.svg?color=%230A66C2" width="20" height="20" alt="LinkedIn" />
   </a>
   &nbsp;
   <a href="mailto:aliyabuz30@gmail.com" aria-label="Email">
-    <img src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6/svgs/solid/envelope.svg" width="20" height="20" alt="Email" />
+    <img src="https://api.iconify.design/fa6-solid:envelope.svg?color=%23EA4335" width="20" height="20" alt="Email" />
   </a>
 </p>
 
