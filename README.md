@@ -6,6 +6,11 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1200&color=0A66C2&center=true&vCenter=true&width=800&lines=Secure+Backend+Architecture;Messaging+Infrastructure+at+Scale;Automation+Workflows+for+Production+Systems;LLM+Tooling+Integrated+with+Real+Operations" alt="Typing Intro" />
 </p>
 <p align="center">
+  <img src="https://img.shields.io/badge/Focus-Secure%20Systems-0A66C2?style=for-the-badge" alt="Focus" />
+  <img src="https://img.shields.io/badge/Domain-Messaging%20Infrastructure-111111?style=for-the-badge" alt="Domain" />
+  <img src="https://img.shields.io/badge/Mindset-Production%20First-EA4335?style=for-the-badge" alt="Mindset" />
+</p>
+<p align="center">
   <a href="https://github.com/aliyabuz" aria-label="GitHub">
     <img src="https://api.iconify.design/fa6-brands:github.svg?color=%23181717" width="24" height="24" alt="GitHub" />
   </a>
@@ -25,6 +30,9 @@
 
 ## Profile
 Backend engineer focused on secure, production-grade systems. I design and operate APIs, automation workflows, and high-availability messaging infrastructure for commercial operations in Türkiye and Azerbaijan.
+
+## Motivation
+**Kellie (2025 - ∞)**
 
 ## What I Build
 - **AnkaLLM**: practical LLM tooling with production-grade integrations
@@ -49,12 +57,6 @@ Backend engineer focused on secure, production-grade systems. I design and opera
   <img src="https://img.shields.io/badge/Secure_APIs-0A66C2?style=flat-square" alt="Secure APIs" />
   <img src="https://img.shields.io/badge/Queue--Driven_Messaging-0A66C2?style=flat-square" alt="Queue-Driven Messaging" />
   <img src="https://img.shields.io/badge/Application_Security-0A66C2?style=flat-square" alt="Application Security" />
-</p>
-
-## GitHub Snapshot
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=aliyabuz&show_icons=true&theme=transparent&hide_border=true&title_color=0A66C2&icon_color=0A66C2&text_color=2F3B4A" alt="GitHub Stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliyabuz&layout=compact&theme=transparent&hide_border=true&title_color=0A66C2&text_color=2F3B4A" alt="Top Languages" />
 </p>
 
 ## Contact
