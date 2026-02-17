@@ -6,24 +6,25 @@
   <a href="mailto:aliyabuz30@gmail.com">aliyabuz30@gmail.com</a>
 </p>
 
-## About
-Engineer building production backend systems with a focus on secure APIs, messaging infrastructure, and automation workflows for commercial operations in Türkiye and Azerbaijan.
+## Profile
+Backend engineer focused on secure, production-grade systems. I build and operate APIs, automation platforms, and messaging infrastructure used in real commercial environments across Türkiye and Azerbaijan.
 
-## Focus Areas
+## Core Expertise
+- Backend architecture and API design
+- Messaging systems and workflow automation
+- Application security and authentication boundaries
+- Reliability, monitoring, and abuse/anomaly detection
+
+## Featured Work
 - **AnkaLLM**: practical LLM tooling and production integrations
-- **HubMSG WAA**: scalable WhatsApp automation and messaging systems
-- **Security Engineering**: auth boundaries, protocol analysis, risk mitigation
-- **Logistics Automation**: notification and subscription workflows
+- **HubMSG WAA**: scalable WhatsApp automation and messaging infrastructure
+- **Logistics Automation**: subscription and notification workflows for operational teams
 
-## Tech Stack
-- **Languages**: `C#`, `JavaScript`, `TypeScript`, `PHP`, `Node.js`
+## Technology
+- **Languages**: `C#`, `JavaScript`, `TypeScript`, `PHP`
+- **Runtime/Platform**: `Node.js`
 - **Tooling**: `LLDB`, `Frida`, `clang/LLVM`
-- **Backend**: secure APIs, auth flows, queue-based messaging, real-time services
-
-## Interests
-- Anomaly and abuse detection
-- Reliability patterns for AI-enabled systems
-- Applied space-data analytics
+- **Domains**: secure APIs, auth flows, queue-driven messaging, real-time services
 
 ## Contact
 - **Email**: [aliyabuz30@gmail.com](mailto:aliyabuz30@gmail.com)
