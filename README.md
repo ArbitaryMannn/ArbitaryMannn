@@ -1,6 +1,6 @@
 <h1 align="center">Ali Yabuz</h1>
 <p align="center">
-  <strong>Founder @ HubMSG WAA</strong> • <strong>Builder @ AnkaLLM</strong> • Security-Focused Backend Engineer
+  <strong>Founder @ HubMSG WAA</strong> • <strong>Startup Team @ Azpinx</strong> • <strong>Builder @ AnkaLLM</strong> • Security-Focused Backend Engineer
 </p>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1200&color=0A66C2&center=true&vCenter=true&width=800&lines=Secure+Backend+Architecture;Messaging+Infrastructure+at+Scale;Automation+Workflows+for+Production+Systems;LLM+Tooling+Integrated+with+Real+Operations" alt="Typing Intro" />
@@ -29,6 +29,8 @@ Backend engineer focused on secure, production-grade systems. I design and opera
 ## What I Build
 - **AnkaLLM**: practical LLM tooling with production-grade integrations
 - **HubMSG WAA**: scalable WhatsApp automation and messaging infrastructure
+- **Azpinx**: startup initiative focused on modern digital product development  
+  [azpinx.octotech.az](https://azpinx.octotech.az)
 - **Logistics Automation**: subscription and notification workflows for operational teams
 - **Security Engineering**: auth boundaries, protocol-level analysis, and risk reduction
 
@@ -58,3 +60,4 @@ Backend engineer focused on secure, production-grade systems. I design and opera
 ## Contact
 - **Email**: [aliyabuz30@gmail.com](mailto:aliyabuz30@gmail.com)
 - **LinkedIn**: [linkedin.com/in/aliyabuz](https://www.linkedin.com/in/aliyabuz/)
+- **Startup**: [azpinx.octotech.az](https://azpinx.octotech.az)
