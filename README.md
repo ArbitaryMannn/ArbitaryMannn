@@ -5,6 +5,17 @@
 <p align="center">
   <a href="mailto:aliyabuz30@gmail.com">aliyabuz30@gmail.com</a>
 </p>
+<p align="center">
+  <a href="https://github.com/aliyabuz">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/aliyabuz/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:aliyabuz30@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 
 ## Profile
 Backend engineer focused on secure, production-grade systems. I build and operate APIs, automation platforms, and messaging infrastructure used in real commercial environments across Türkiye and Azerbaijan.
@@ -26,5 +37,7 @@ Backend engineer focused on secure, production-grade systems. I build and operat
 - **Tooling**: `LLDB`, `Frida`, `clang/LLVM`
 - **Domains**: secure APIs, auth flows, queue-driven messaging, real-time services
 
-## Contact
+## Socials
+- **GitHub**: [github.com/aliyabuz](https://github.com/aliyabuz)
+- **LinkedIn**: [linkedin.com/in/aliyabuz](https://www.linkedin.com/in/aliyabuz/)
 - **Email**: [aliyabuz30@gmail.com](mailto:aliyabuz30@gmail.com)
