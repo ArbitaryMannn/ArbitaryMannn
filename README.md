@@ -1,83 +1,29 @@
-<h1 align="center">Hi, I'm Ali Yabuz</h1>
+<h1 align="center">Ali Yabuz</h1>
 <p align="center">
-  Founder of <strong>HubMSG WAA</strong> • Builder of <strong>AnkaLLM</strong> • Security-minded backend engineer
+  Founder of <strong>HubMSG WAA</strong> • Builder of <strong>AnkaLLM</strong> • Security-focused Backend Engineer
 </p>
-
 <p align="center">
   <a href="mailto:aliyabuz30@gmail.com">aliyabuz30@gmail.com</a>
 </p>
 
----
+## About
+Engineer building production backend systems with a focus on secure APIs, messaging infrastructure, and automation workflows for commercial operations in Türkiye and Azerbaijan.
 
-### Profile Overview
-Turkish engineer focused on building practical, production-grade systems with measurable outcomes.
+## Focus Areas
+- **AnkaLLM**: practical LLM tooling and production integrations
+- **HubMSG WAA**: scalable WhatsApp automation and messaging systems
+- **Security Engineering**: auth boundaries, protocol analysis, risk mitigation
+- **Logistics Automation**: notification and subscription workflows
 
-I design and operate secure APIs, automation platforms, and high-availability messaging infrastructure used by real commercial operations in Türkiye and Azerbaijan.
+## Tech Stack
+- **Languages**: `C#`, `JavaScript`, `TypeScript`, `PHP`, `Node.js`
+- **Tooling**: `LLDB`, `Frida`, `clang/LLVM`
+- **Backend**: secure APIs, auth flows, queue-based messaging, real-time services
 
-> "I build with the opportunities currently in my hands. Objectives are operational, measurable, and inevitable."
+## Interests
+- Anomaly and abuse detection
+- Reliability patterns for AI-enabled systems
+- Applied space-data analytics
 
----
-
-### Current Focus
-
-- 🤖 **AnkaLLM**: practical intelligence, reliable LLM tooling, production integration
-- 🚀 **HubMSG WAA**: WhatsApp automation + messaging infrastructure at scale
-- 🔐 **Defensive Security Research**: auth boundaries, protocol analysis, exploit-class risk assessment
-- 📦 **Logistics Automation**: subscription and notification flows for cargo/logistics clients
-
----
-
-### Engineering Priorities
-
-`Backend Architecture`
-`██████████████████░░` 90%
-
-`Messaging & Automation`
-`███████████████████░` 95%
-
-`Application Security`
-`█████████████████░░░` 85%
-
-`LLM Systems`
-`████████████████░░░░` 80%
-
-`Observability & Abuse Detection`
-`███████████████░░░░░` 75%
-
----
-
-### Tech Stack
-
-**Languages**
-
-`C#` `JavaScript` `TypeScript` `PHP` `Node.js`
-
-**Tooling**
-
-`LLDB` `Frida` `clang/LLVM`
-
-**Backend Domains**
-
-`Secure APIs` `Auth Flows` `Queue-Driven Messaging` `Real-Time Services` `Performance-Centric Systems`
-
----
-
-### Research & Interests
-
-- Anomaly and abuse detection (including NLP-driven analysis)
-- Space science/engineering and automated space-data analytics
-- Practical reliability patterns for AI-enabled systems
-
----
-
-### Personal Notes
-
-- 😄 Prefer explicit C-style and JavaScript-based languages
-- 🎵 Favorite viral: **Charlie Bit Me (Remix) — 2007**
-- ❤️ Motivation: **Kellie (2025 — ∞)**
-
----
-
-### Contact
-
-- 📫 **Email**: [aliyabuz30@gmail.com](mailto:aliyabuz30@gmail.com)
+## Contact
+- **Email**: [aliyabuz30@gmail.com](mailto:aliyabuz30@gmail.com)
