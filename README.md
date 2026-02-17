@@ -5,16 +5,16 @@
   Security-Focused Backend Engineer • Production Systems • Messaging Infrastructure
 </p>
 <p align="center">
-  <a href="https://github.com/aliyabuz" aria-label="GitHub">
-    <img src="https://api.iconify.design/fa6-brands:github.svg?color=%23181717" width="22" height="22" alt="GitHub" />
+  <a href="https://github.com/aliyabuz" aria-label="GitHub" style="text-decoration:none;border:0;display:inline-block;line-height:0;">
+    <img src="https://api.iconify.design/fa6-brands:github.svg?color=%23FFFFFF" width="22" height="22" alt="GitHub" style="display:block;background:#111111;border-radius:50%;padding:2px;" />
   </a>
   &nbsp;
-  <a href="https://www.linkedin.com/in/aliyabuz/" aria-label="LinkedIn">
-    <img src="https://api.iconify.design/fa6-brands:linkedin.svg?color=%230A66C2" width="22" height="22" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/aliyabuz/" aria-label="LinkedIn" style="text-decoration:none;border:0;display:inline-block;line-height:0;">
+    <img src="https://api.iconify.design/fa6-brands:linkedin.svg?color=%230A66C2" width="22" height="22" alt="LinkedIn" style="display:block;" />
   </a>
   &nbsp;
-  <a href="mailto:aliyabuz30@gmail.com" aria-label="Email">
-    <img src="https://api.iconify.design/fa6-solid:envelope.svg?color=%23EA4335" width="22" height="22" alt="Email" />
+  <a href="mailto:aliyabuz30@gmail.com" aria-label="Email" style="text-decoration:none;border:0;display:inline-block;line-height:0;">
+    <img src="https://api.iconify.design/fa6-solid:envelope.svg?color=%23EA4335" width="22" height="22" alt="Email" style="display:block;" />
   </a>
 </p>
 
